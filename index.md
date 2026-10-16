@@ -1,5 +1,5 @@
-#Jonah Spencer's Mechanical Engineering Interview Guide
-##Introduction
+# Jonah Spencer's Mechanical Engineering Interview Guide
+## Introduction
 Text here
-##Resources for further study
+## Resources for further study
 Textbooks here
