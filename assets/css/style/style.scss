@@ -1,0 +1,14 @@
+scss
+---
+---
+
+@import "{{jekyll-theme-minimal}}";
+
+@media (prefers-color-scheme: dark) {
+  body { background: #1a1a1a; color: #c9c9c9; }
+  h1, h2, h3, h4, h5, h6, strong { color: #f0f0f0; }
+  a { color: #6cb4ee; }
+  code, pre { background: #2a2a2a; color: #e0e0e0; }
+  th, td { border-color: #444; }
+  img { background: #fff; }
+}
