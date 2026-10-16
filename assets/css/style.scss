@@ -2,7 +2,7 @@ scss
 ---
 ---
 
-@import "{{jekyll-theme-minimal}}";
+@import "{{ site.theme }}";
 
 @media (prefers-color-scheme: dark) {
   body { background: #1a1a1a; color: #c9c9c9; }
