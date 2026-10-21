@@ -2,10 +2,13 @@
 ## Introduction
 Text here
 
-Example equation with reference to the right side'
+All equations are labeled using the following syntax:
+```math
 \begin{equation}
-    E = mc^2 \label{eq:einstein}
+    E = mc^2 \tag{S.A.1}
 \end{equation}
+```
+![Labeling Syntax](/assets/index/equation_format.png)
 
 ## Pages
 [Structures](structures.md)  
