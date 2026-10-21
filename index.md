@@ -2,6 +2,11 @@
 ## Introduction
 Text here
 
+Example equation with reference to the right side'
+\begin{equation}
+    E = mc^2 \label{eq:einstein}
+\end{equation}
+
 ## Pages
 [Structures](structures.md)  
 [Thermodynamics](thermodynamics.md)  
