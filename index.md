@@ -3,7 +3,9 @@
 Text here
 
 All equations are labeled using the following syntax:
-$$E = mc^2 \tag{S.A.1}$$
+``` math
+E = mc^2 \tag{S.A.1}
+```
 
 ![Labeling Syntax](/assets/index/equation_format.png)
 
