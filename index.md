@@ -3,11 +3,10 @@
 Text here
 
 All equations are labeled using the following syntax:
-```math
-\begin{equation}
-    E = mc^2 \tag{S.A.1}
-\end{equation}
-```
+$$
+E = mc^2 \tag{S.A.1}
+$$
+
 ![Labeling Syntax](/assets/index/equation_format.png)
 
 ## Pages
